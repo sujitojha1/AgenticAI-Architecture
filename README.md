@@ -1,7 +1,8 @@
 # AgenticAI-Architecture
 Exploring agentic AI architectures
 
-Add these features to your agent [1000]:
+## Background & Objective
+Add these features to your agent:
 
 Explain the Changes in Architecture from the last one in detail. Must be in the README.md file
 If a tool fails, add "Human-In-Loop" and let him answer that part. 
@@ -10,7 +11,6 @@ Enforce Max_Steps = 3, and Max_Retries = 3
 Write a simulator that runs 100+ Tests. Please add "sleep,"  or else Google will ban you.
 Save a tool_performance log, and feed it to Agent (for this, you need to run multiple tools multiple times)
 Must be submitted alone, and within a week (else by default you're attempting the OR below).
-OR [10000]:
 
 Use the concepts as described in the session today and write your own architecture [10000] as described in this image:
 image.png
@@ -19,3 +19,6 @@ By default, Code Similarity Comparison would be run on your code and code shared
 You're allowed to form your own groups.
 Extended Submission of 2 weeks. 
 You're submitting YouTube explanation of your Architecture and GitHub link
+
+## High Level Plan
+- [ ] Understand the previous session and load the files 
