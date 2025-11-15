@@ -21,4 +21,9 @@ Extended Submission of 2 weeks.
 You're submitting YouTube explanation of your Architecture and GitHub link
 
 ## High Level Plan
-- [ ] Understand the previous session and load the files 
+- [ ] Understand the previous session and load the files
+
+## References
+1. [LangChain: Building Agentic Workflows](https://python.langchain.com/docs/modules/agents/) – Overview of LangChain’s agent abstractions, tool use, and execution traces that inspire the tool orchestration requirements listed above.
+2. [OpenAI Function Calling & Agents Guide](https://platform.openai.com/docs/guides/function-calling) – Details how to structure functions/tools, manage retries, and incorporate human-in-the-loop fallbacks when automated reasoning fails.
+3. [AutoGen: Enabling Next-Gen LLM Applications](https://microsoft.github.io/autogen/) – Multi-agent patterns from Microsoft’s AutoGen project that inform the Max_Steps constraints, simulator design, and logging expectations for complex AI architectures.
